@@ -14,8 +14,10 @@ export default defineConfig({
         head: resolve(__dirname, 'src/components/head.html'),
         hearder: resolve(__dirname, 'src/components/header.html'),
         mav: resolve(__dirname, 'src/components/nav.html'),
-        // main_content: resolve(__dirname, 'src/components/main_content.html'),
+        // main_content: resolve(__dirname, 'src/components/contact.html'),
         footer: resolve(__dirname, 'src/components/footer.html'),
+        contact: resolve(__dirname, 'src/contact/contact.html'),
+
 
       },
     },

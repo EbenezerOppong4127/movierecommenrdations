@@ -198,6 +198,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   } catch (error) {
     console.error("Error loading data:", error);
   }
-  // Add an event listener to close the modal when the close button is clicked
+
 });
 

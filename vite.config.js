@@ -19,6 +19,7 @@ export default defineConfig({
 
         main_content: resolve(__dirname, 'src/components/main_content.html'),
         contact: resolve(__dirname, 'src/contact/contact.html'),
+        video: resolve(__dirname, 'src/myvideo/index.html'),
 
 
       },

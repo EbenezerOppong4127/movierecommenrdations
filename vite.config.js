@@ -16,6 +16,8 @@ export default defineConfig({
         mav: resolve(__dirname, 'src/components/nav.html'),
         // main_content: resolve(__dirname, 'src/components/contact.html'),
         footer: resolve(__dirname, 'src/components/footer.html'),
+
+        main_content: resolve(__dirname, 'src/components/main_content.html'),
         contact: resolve(__dirname, 'src/contact/contact.html'),
 
 
